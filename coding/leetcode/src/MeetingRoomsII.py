@@ -9,12 +9,12 @@ class Solution:
             rooms_ends = [] - use a heap (min-heap)
             for scehedule in schedules:
                 for room in room_end:
-                    if room < shedule.start:
-                        remove(room)
-                        add(schedule_start)
-                    
-
-
+                    if rooms empty:
+                        add to heap
+                    else:
+                        if room < shedule.start:
+                            remove(room)
+                    add(schedule_start)                    
         """
         max_rooms = 0
         intervals.sort()
