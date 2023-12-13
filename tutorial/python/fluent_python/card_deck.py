@@ -23,6 +23,8 @@ if __name__ == '__main__':
 
     deck = FrenchDeck()
 
+    print("Length of the deck", len(deck))
+
     print(choice(deck))
 
     # adhering to python data model hence directly supports slicing
