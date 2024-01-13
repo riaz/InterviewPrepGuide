@@ -1,0 +1,7 @@
+line 1 python is easy
+line 2 python is easy
+line 3 python is easy
+line 4 python is easy
+line 5 python is easy
+line 6 python is easy
+line 7 python is easy
