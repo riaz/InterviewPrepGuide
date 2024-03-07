@@ -11,6 +11,7 @@ client = anthropic.Anthropic(
     # defaults to os.environ.get("ANTHROPIC_API_KEY")
     api_key=api_key
 )
+
 message = client.messages.create(
     model="claude-2.1",
     max_tokens=1000,
